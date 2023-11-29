@@ -1,11 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4caf891-e288-49df-8122-87c1396ac4b7" name="Changes" comment="" />
+    <list default="true" id="f4caf891-e288-49df-8122-87c1396ac4b7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/es1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es1/Rettangolo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es2/Chiamata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es2/SIM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es3/Articolo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es3/Carrello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es3/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -19,7 +46,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "File.Encoding"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
